@@ -8,10 +8,16 @@
 
 #top {
     transform: rotate(18deg);
+    position: relative;
+    left: -600px;
+    top: 70px;
 }
 
 #bottom {
     transform: rotate(18deg);
+    position: relative;
+    left: 100px;
+    top: -50px;
 }
 body {
     background-color: hsl(185, 75%, 39%);
